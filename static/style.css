@@ -1,0 +1,16 @@
+h1{
+    color: red;
+    text-align: center;
+    font-weight: bold;
+    font-size: 60px  ;
+    background-color: #0a53be;
+    line-height: 120px
+;
+}
+img{
+    width: 430px;
+    height: 250px;
+}
+h1:hover{
+    background-color: #0dcaf0;
+}
